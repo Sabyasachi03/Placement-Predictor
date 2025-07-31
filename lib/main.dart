@@ -339,7 +339,7 @@ class _PlacementHomePageState extends State<PlacementHomePage> with SingleTicker
     return Container(
       margin: EdgeInsets.only(top: 40),
       child: Text(
-        'Powered by Sabya AI JhalEngine',
+        'Powered by Sabya',
         style: TextStyle(
           color: Colors.grey.shade500,
           fontSize: 14,
